@@ -22,6 +22,8 @@ This Portfolio is a presentation of several machine learning techniques includin
 
 ## Portfolio Projects
 
+Individual descriptions are located within the README of each individual portfolio peice
+
 ### Supervised Learning Techniques
 1. Linear Regression
     
